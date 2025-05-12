@@ -1,2 +1,3 @@
 def return_not_none():
-    return None
+    """Always returns something that is not None."""
+    return True

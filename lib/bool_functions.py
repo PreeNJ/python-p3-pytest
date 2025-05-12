@@ -1,2 +1,3 @@
 def return_true():
-    return False
+    """In bool_functions, function "return_true" returns True."""
+    return True
